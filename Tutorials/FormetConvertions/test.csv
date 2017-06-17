@@ -1,0 +1,4 @@
+pk,model,codename,name,content_type
+22,auth.permission,add_logentry,Can add log entry,8
+23,auth.permission,change_logentry,Can change log entry,8
+24,auth.permission,delete_logentry,Can delete log entry,8
