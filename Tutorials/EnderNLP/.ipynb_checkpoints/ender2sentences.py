@@ -10,7 +10,7 @@ import numpy as np
 import re
 import string
 
-max_sentences = 100000
+max_sentences = 10000
 max_num_words = 40000
 
 
